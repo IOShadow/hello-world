@@ -1,0 +1,8 @@
+<firstleap>(no clue how to do this again)
+
+for i in range(n, 0, -1):
+2 for j in range(n - i):
+3 print ’ ’,
+4 for j in range(2 * i - 1):
+5 print ’*’,
+6 print
